@@ -10,7 +10,8 @@ En este curso vemos de todo:
 - El verdadero amor por las buenas prácticas
 - Trucos muylocos del profesor
 - Las multiples personalidades de Freddy
-- Creado por el incríble Team de Platzi 
+- Creado por el incríble Team de Platzi
+- Incluye ejemplos el windows, linux y mac.
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
 
